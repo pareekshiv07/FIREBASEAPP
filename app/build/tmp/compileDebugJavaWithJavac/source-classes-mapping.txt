@@ -1,0 +1,19 @@
+com/example/basicfirebaseapp/BuildConfig.java
+ com.example.basicfirebaseapp.BuildConfig
+com/example/basicfirebaseapp/StartActivity.java
+ com.example.basicfirebaseapp.StartActivity
+ com.example.basicfirebaseapp.StartActivity$1
+ com.example.basicfirebaseapp.StartActivity$2
+com/example/basicfirebaseapp/LoginActivity.java
+ com.example.basicfirebaseapp.LoginActivity
+ com.example.basicfirebaseapp.LoginActivity$1
+ com.example.basicfirebaseapp.LoginActivity$2
+com/example/basicfirebaseapp/MainActivity.java
+ com.example.basicfirebaseapp.MainActivity
+ com.example.basicfirebaseapp.MainActivity$1
+ com.example.basicfirebaseapp.MainActivity$2
+ com.example.basicfirebaseapp.MainActivity$3
+com/example/basicfirebaseapp/RegisterActivity.java
+ com.example.basicfirebaseapp.RegisterActivity
+ com.example.basicfirebaseapp.RegisterActivity$1
+ com.example.basicfirebaseapp.RegisterActivity$2
